@@ -8,7 +8,7 @@
 5- Robust Scaling
 
 
-in this repo. we just apply Standardization on "auto-mpg"data
+In this repo. we just apply Standardization on "auto-mpg"data
 
 
 In standardization, we calculate the z-value for each of the data points and replaces those with these values
