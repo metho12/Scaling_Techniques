@@ -1,6 +1,6 @@
 # Scaling_Techniques via python.
 
-# trere are many ways to scaling features :
+# There are many ways to scaling features :
 1- Absolute Maximum Scaling
 2- Min-Max Scaling
 3- Normalization
@@ -21,6 +21,6 @@ Where z is the new value, x is the original value, u is the mean and s is the st
 
 
 
---------------------------------------END----------------------------------
+-------------------------------------------END----------------------------------------
 
 
